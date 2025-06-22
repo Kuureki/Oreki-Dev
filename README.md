@@ -17,8 +17,8 @@
 <hr />
 <br>
 <p align="center">
-  <a href="https://github.com/Oreki-Dev">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=oreki-dev&theme=bear" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oreki-dev&count_private=true&show_icons=true&theme=bear" />
+  <a href="https://github.com/Kuureki">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=kuureki&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuureki&count_private=true&show_icons=true&theme=bear" />
   </a>
 </p>
