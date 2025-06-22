@@ -77,12 +77,3 @@
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </p>
-
-<hr />
-<br>
-<p align="center">
-  <a href="https://github.com/Kuureki">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=kuureki&theme=bear" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuureki&count_private=true&show_icons=true&theme=bear" />
-  </a>
-</p>
