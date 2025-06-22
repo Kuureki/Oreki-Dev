@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oreki</h1>
 <hr />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuureki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kuureki&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuureki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Kuureki&theme=oldie&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuureki&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 <h3 align="center">Things i use:</h3>
 <h3 align="center">🚀 Programming Languages</h3>
     <p align="center">
